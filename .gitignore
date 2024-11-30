@@ -1,0 +1,6 @@
+*.log
+*.dwg
+/Project*
+/__Previews
+/History
+*.PrjPcbStructure
